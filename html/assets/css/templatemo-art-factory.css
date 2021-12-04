@@ -734,13 +734,13 @@ TRY IT ... with or without CENTER CENTER
 */
     background-size: cover;
     width: 100%;
-    height: 105vh;
-    margin-top: -10vh;
+    height: 110vh;
 }
 
 .welcome-area .header-text {
+  padding-top: 15vmin;
   position: absolute;
-  top: 55%;
+  top: 50%;
   transform: translateY(-60%);
   text-align: left;
   width: 100%;
