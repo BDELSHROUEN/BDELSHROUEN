@@ -1,6 +1,6 @@
 Mentions légales
 
-bde-lsh.univ-rouen.fr est la propriété du BDE LSH.
+https://bdelshrouen.github.io est la propriété du BDE LSH Rouen.
 
 
 Editeur
@@ -13,13 +13,12 @@ Mail : bde.lshrouen@gmail.com
 
 Directrice de la publication
 
-Lola Bricout, vice-présidente communication du BDE LSH
+Lola Bricout, vice-présidente réseau du BDE LSH
 
 
 Hébergeur
 
-Université de Rouen
-UFR Lettres et Sciences Humaines 76130 Mont Saint Aignan Cedex
+Github
 
 
 Droit d’auteur
